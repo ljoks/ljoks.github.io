@@ -351,6 +351,11 @@ h1.header-item {
   margin-bottom: 5%;
 }
 
+.focuses {
+  font-size: 16px;
+  margin-top: 1px;
+}
+
 #section-4 {
   background-size: cover;
 }
