@@ -9,6 +9,11 @@ module.exports = merge(
         plugins:
         [
             new CleanWebpackPlugin()
-        ]
+        ],
+        performance: {
+            hints: false,
+            maxEntrypointSize: 512000,
+            maxAssetSize: 512000
+        }
     }
 )
