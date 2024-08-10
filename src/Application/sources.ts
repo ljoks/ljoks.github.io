@@ -2,7 +2,7 @@ const sources: Resource[] = [
     {
         name: 'computerSetupModel',
         type: 'gltfModel',
-        path: 'models/Computer/computer_setup.glb',
+        path: 'models/Computer/computer_setup2.glb',
     },
     {
         name: 'computerSetupTexture',
